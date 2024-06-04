@@ -5,4 +5,4 @@ class Hello:
 
 
     def say_hello(self, name):
-        print(f'hello {name}')
+        print(f'hello {name}!')
