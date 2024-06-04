@@ -1,6 +1,8 @@
-def print_hello_world():
-    print('hello world!')
+class Hello:
+
+    def print_hello_world(self):
+        print('hello world!')
 
 
-def say_hello(name):
-    print(f'hello {name}')
+    def say_hello(self, name):
+        print(f'hello {name}')
